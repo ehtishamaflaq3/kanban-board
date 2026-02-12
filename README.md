@@ -20,13 +20,11 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 ---
 ## Check Now
 
-
 <p align="center">
-  <a href="https://your-live-link.com">
+  <a href=" https://ehtishamaflaq3.github.io/kanban-board/">
     <img src="https://img.shields.io/badge/%20Live%20Demo-View%20Project-ff3d00?style=for-the-badge" />
   </a>
 </p>
-
 
 ---
 
@@ -37,12 +35,13 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 - Drag & Drop between columns
 - Auto-update task counters
 - Persistent data using LocalStorage
-- Dynamic UI rendering
 - Modern dark theme interface
 
 ---
 
 ## JavaScript Concepts Implemented
+
+I covered these all concepts in this project:-
 
 - DOM Manipulation
 - Event Handling
@@ -81,6 +80,3 @@ Frontend Developer | MERN Stack Learner
 ## Support
 
 If you like this project, give it a ⭐ on GitHub and feel free to connect!
-
-## 🏗️ Project Structure
-
