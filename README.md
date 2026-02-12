@@ -19,7 +19,11 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 
 ---
 
-
+<p align="center">
+  <a href="https://ehtishamaflaq3.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20NOW-Click%20Here-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
