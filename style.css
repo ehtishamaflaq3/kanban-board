@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background-color: #333;
+    --background-button-color: #1a1a1a;
+    --text-color: wheat;
+    --delete-color: red;
+
+    /* padding variables*/
+    --padding-xs: 5px;
+    --padding-s: 10px;
+    --padding-m: 15px;
+    --padding-l: 20px;
+    --padding-xl: 30px;
+    --padding-xxl: 50px;
+
+    /* border radius variables*/
+    --border-radius-xs: 5px;
+    --border-radius-s: 10px;
+    --border-radius-m: 15px;
+    --border-radius-l: 20px;
+    --border-radius-xl: 30px;
+    --border-radius-xxl: 50px;
+}
+
+main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+html,
+body {
+    background-color: #000000;
+    color: var(--text-color);
+    height: 100%;
+    width: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* navigation setting */
+nav {
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#togglemodal{
+    background-color: var(--background-button-color);
+    color: wheat;
+    cursor: pointer;
+    outline: none;
+    padding: 12px 12px;
+    border: none;
+    border-radius: var(--border-radius-s);
+}
+
+/* sections setting */
+section {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
+    gap: 30px;
+}
+
+/* all columns */
+section .taskcolumn {
+    border: 2px solid #333;
+    flex-grow: 1;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    background-color: #333;
+    flex-direction: column;
+    gap: var(--padding-m);
+    border-radius: 10px;
+}
+
+/* hoverover class for draging task */
+.hoverover {
+    border: 2px;
+    border-color: aliceblue;
+    border-style: dashed;
+    scale: 1.05;
+    transition: all 0.4s ease-in-out;
+}
+
+/* headings of each column */
+section .taskcolumn .heading {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+/* for task */
+section .taskcolumn .task {
+    background-color: #000000;
+    padding: var(--padding-m);
+    border-radius: var(--border-radius-m);
+    display: flex;
+    flex-direction: column;
+    gap: var(--padding-s);
+    cursor: grab;
+}
+
+section .taskcolumn .task button {
+    align-self: flex-end;
+    cursor: pointer;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 13px;
+    outline: none;
+    background-color: var(--delete-color);
+    color: white;
+}
+/* modal styling */
+.modal {
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+.modal.active{
+    display: flex;
+}
+.modal .bg {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    backdrop-filter: blur(3px);
+}
+
+.modal .center {
+    background-color: #1a1a1a;
+    padding: 25px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 10;
+}
+
+.modal .center input,
+.modal .center textarea {
+    border: 2px dashed yellow;
+    outline: none;
+    background-color: #1a1a1a;
+    color: whitesmoke;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.modal .center button {
+    background-color: aqua;
+    border: none;
+    outline: none;
+    color: rebeccapurple;
+    padding: 10px 12px;
+    cursor: pointer;
+    border-radius: 12px;
+    width: fit-content;
+    align-self: center;
+}
