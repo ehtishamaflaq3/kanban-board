@@ -22,7 +22,7 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 
 <p align="center">
   <a href=" https://ehtishamaflaq3.github.io/kanban-board/">
-    <img src="https://img.shields.io/badge/%20Live%20Demo-View%20Project-ff3d00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
