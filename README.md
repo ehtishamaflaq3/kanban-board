@@ -18,12 +18,15 @@ This project demonstrates real-world frontend concepts like Drag & Drop API, Loc
 Each column dynamically updates task counts and supports smooth drag-and-drop functionality.
 
 ---
+## Check Now
+
 
 <p align="center">
-  <a href="https://ehtishamaflaq3.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20NOW-Click%20Here-green?style=for-the-badge" />
+  <a href="https://your-live-link.com">
+    <img src="https://img.shields.io/badge/%20Live%20Demo-View%20Project-ff3d00?style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
