@@ -72,7 +72,3 @@ I covered these all concepts in this project:-
 
 Ehtisham Aflaq
 Frontend Developer
-
-## Support
-
-If you like this project, give it a ⭐ on GitHub and feel free to connect!
