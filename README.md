@@ -48,16 +48,12 @@ I covered these all concepts in this project:-
 - State Management
 - Modular Function Structure
 
----
-
 ## UI Highlights
 
 - Modern dark theme
 - Rounded task cards
 - Minimal professional layout
 - Responsive design
-
----
 
 ## Future Improvements
 
