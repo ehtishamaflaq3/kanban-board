@@ -34,8 +34,6 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 - Persistent data using LocalStorage
 - Modern dark theme interface
 
----
-
 ## JavaScript Concepts Implemented
 
 I covered these all concepts in this project:-
