@@ -8,7 +8,7 @@ This project demonstrates real-world frontend concepts like Drag & Drop API, Loc
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/7cc224a6-08b4-49ee-a1d6-6a654abd28c2" />
 
 > Clean dark UI with three workflow columns:
--  To Do
+-  To Do.
 -  In Progress
 -  Done
 
