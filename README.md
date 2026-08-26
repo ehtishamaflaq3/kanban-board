@@ -32,7 +32,7 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 - Drag & Drop between columns
 - Auto-update task counters
 - Persistent data using LocalStorage
-- Modern dark theme interface
+- Modern dark theme interface.
 
 ## JavaScript Concepts Implemented
 
