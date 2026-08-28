@@ -64,5 +64,5 @@ I covered these all concepts in this project:-
 
 ## Author
 
-Ehtisham Aflaq
-Frontend Developer
+Ehtisham Aflaq.
+Frontend Developer.
