@@ -29,9 +29,9 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 
 - Add new tasks using modal.
 - Delete tasks instantly.
-- Drag & Drop between columns
-- Auto-update task counters
-- Persistent data using LocalStorage
+- Drag & Drop between columns.
+- Auto-update task counters.
+- Persistent data using LocalStorage.
 - Modern dark theme interface.
 
 ## JavaScript Concepts Implemented
