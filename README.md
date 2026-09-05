@@ -48,9 +48,9 @@ I covered these all concepts in this project:-
 
 ## UI Highlights
 
-- Modern dark theme
-- Rounded task cards
-- Minimal professional layout
+- Modern dark theme.
+- Rounded task cards.
+- Minimal professional layout.
 - Responsive design
 
 ## Future Improvements
