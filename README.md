@@ -39,7 +39,7 @@ Each column dynamically updates task counts and supports smooth drag-and-drop fu
 I covered these all concepts in this project:-
 
 - DOM Manipulation.
-- Event Handling
+- Event Handling.
 - Drag & Drop API
 - LocalStorage API
 - JSON Data Handling
