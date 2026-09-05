@@ -43,8 +43,8 @@ I covered these all concepts in this project:-
 - Drag & Drop API.
 - LocalStorage API.
 - JSON Data Handling.
-- State Management
-- Modular Function Structure
+- State Management.
+- Modular Function Structure.
 
 ## UI Highlights
 
