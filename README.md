@@ -55,9 +55,9 @@ I covered these all concepts in this project:-
 
 ## Future Improvements
 
-- Edit task feature.
-- Due dates & priority labels.
-- Notifications.
+- Edit task feature
+- Due dates & priority labels
+- Notifications
 - Authentication system.
 - Backend integration (Node + MongoDB).
 - React version upgrade.
