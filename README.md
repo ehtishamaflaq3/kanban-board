@@ -59,8 +59,8 @@ I covered these all concepts in this project:-
 - Due dates & priority labels
 - Notifications
 - Authentication system
-- Backend integration (Node + MongoDB)
-- React version upgrade
+- Backend integration (Node + MongoDB).
+- React version upgrade.
 
 ## Author
 
