@@ -57,8 +57,8 @@ I covered these all concepts in this project:-
 
 - Edit task feature
 - Due dates & priority labels
-- Notifications
-- Authentication system
+- Notifications.
+- Authentication system.
 - Backend integration (Node + MongoDB).
 - React version upgrade.
 
