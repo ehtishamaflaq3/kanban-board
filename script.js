@@ -216,6 +216,7 @@ columns.forEach(column => {
 });
 
 // ========== MODAL ==========
+
 togglemodalbtn.addEventListener("click", () => {
     modal.classList.toggle("active");
 });
@@ -224,6 +225,7 @@ modalbg.addEventListener("click", () => {
 });
 
 // ========== ADD TASK ==========
+
 addtaskbutton.addEventListener("click", () => {
     const title = document.querySelector("#task-title").value;
     const desc = document.querySelector("#task-description").value;
