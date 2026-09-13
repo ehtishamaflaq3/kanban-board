@@ -132,7 +132,6 @@ addtaskbutton.addEventListener("click", function () {
     updatecounts();
 });
 */
-
 // new code with same logic conversion of old to new code with chatgpt
 
 // ========== SELECT ELEMENTS ==========
