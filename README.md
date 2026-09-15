@@ -1,7 +1,7 @@
 # Advanced Kanban Board – Drag & Drop Task Manager
 
 A modern and fully interactive **Kanban Board Web Application** built using **HTML, CSS, and Vanilla JavaScript**.
-This project demonstrates real-world frontend concepts like Drag & Drop API, LocalStorage persistence, dynamic DOM manipulation, and structured state management — all without using any frameworks.
+This project demonstrates real-world frontend concepts like Drag & Drop API, LocalStorage persistence, dynamic DOM manipulation, and structured state management all without using any frameworks.
 
 ## Preview
 
