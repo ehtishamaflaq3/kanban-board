@@ -1,4 +1,5 @@
 // all columns vaiables
+
 /*
 let columns = document.querySelectorAll(".taskcolumn");
 const todo = document.querySelector("#todo");
@@ -7,9 +8,11 @@ const done = document.querySelector("#done");
 // all tasks variables
 let dragelement = null;
 let tasksdata = {};
-const tasks = document.querySelectorAll(".task");
+
 // create task
+const tasks = document.querySelectorAll(".task");
 //on reloading data is not removed 
+
 if (localStorage.getItem("tasks")) {
     const data = JSON.parse(localStorage.getItem("tasks"));
     for (const col in data) {
