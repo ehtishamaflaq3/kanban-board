@@ -10,7 +10,6 @@
     --background-button-color: #1a1a1a;
     --text-color: wheat;
     --delete-color: red;
-
     /* padding variables*/
     --padding-xs: 5px;
     --padding-s: 10px;
@@ -18,7 +17,6 @@
     --padding-l: 20px;
     --padding-xl: 30px;
     --padding-xxl: 50px;
-
     /* border radius variables*/
     --border-radius-xs: 5px;
     --border-radius-s: 10px;
