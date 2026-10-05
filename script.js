@@ -4,6 +4,7 @@ let columns = document.querySelectorAll(".taskcolumn");
 const todo = document.querySelector("#todo");
 const progress = document.querySelector("#progress");
 const done = document.querySelector("#done");
+
 // all tasks variables
 let dragelement = null;
 let tasksdata = {};
@@ -34,6 +35,7 @@ if (localStorage.getItem("tasks")) {
 
     }
 }
+
 ////////moving/dragging logic///////////
 
 // for all task that are added by user
