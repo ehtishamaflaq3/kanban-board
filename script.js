@@ -219,14 +219,12 @@ columns.forEach(column => {
 });
 
 // ========== MODAL ==========
-
 togglemodalbtn.addEventListener("click", () => {
     modal.classList.toggle("active");
 });
 modalbg.addEventListener("click", () => {
     modal.classList.remove("active");
 });
-
 // ========== ADD TASK ==========
 
 addtaskbutton.addEventListener("click", () => {
