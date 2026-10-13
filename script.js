@@ -1,5 +1,6 @@
 // all columns vaiables
 /*
+
 let columns = document.querySelectorAll(".taskcolumn");
 const todo = document.querySelector("#todo");
 const progress = document.querySelector("#progress");
