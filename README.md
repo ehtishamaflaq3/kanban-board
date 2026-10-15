@@ -10,7 +10,7 @@ This project demonstrates real-world frontend concepts like Drag & Drop API, Loc
 > Clean dark UI with three workflow columns:
 -  To Do.
 -  In Progress
--  Done.
+-  Done
 
 Each column dynamically updates task counts and supports smooth drag-and-drop functionality.
 
